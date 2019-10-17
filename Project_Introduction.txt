@@ -1,0 +1,3 @@
+This project is focusing on the Spreedsheet users' collaboration.
+ In Google Drive, Excel program could be edited or share by mulity users, however, there is no such system in the program that could make users contact with others directly. 
+We are trying to offer one system like live interactions that could make the users easily connect to each other when working on the same excel project.
